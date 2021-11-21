@@ -17,12 +17,12 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            style={{ height: "550px" }}
+            style={{ height: "500px" }}
             src={docslide1}
             alt="First slide"
           />
           <Carousel.Caption className="text-dark ">
-            <h3 className="fw-bold">Combining excellence and expertise</h3>
+            <h1 className="fw-bold">Combining excellence and expertise</h1>
             <p>
               Our hospitals excel in most aspects of medicine and offer a wide
               range of diagnostic and treatment services, some have been awarded
@@ -33,15 +33,15 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            style={{ height: "550px" }}
+            style={{ height: "500px" }}
             src={docslide2}
             alt="Second slide"
           />
 
           <Carousel.Caption className="text-dark">
-            <h3 className="fw-bold">
+            <h1 className="fw-bold">
               Our services are delivered by highly-skilled professional
-            </h3>
+            </h1>
             <p>
               We have intensive care facilities in all of our hospitals, and
               dedicated and expert teams to look after you no matter what
@@ -52,13 +52,13 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            style={{ height: "550px" }}
+            style={{ height: "500px" }}
             src={docslide3}
             alt="Third slide"
           />
 
           <Carousel.Caption className="text-dark">
-            <h3 className="fw-bold">Our hospital provides 24/7 hour service</h3>
+            <h1 className="fw-bold">Our hospital provides 24/7 hour service</h1>
             <p>
               Our hospitals, clinics, outpatient and diagnostics centres, and
               NHS partnerships cover all areas of medicine, including complex

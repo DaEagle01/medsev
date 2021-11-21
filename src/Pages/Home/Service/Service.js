@@ -9,7 +9,7 @@ const Service = ({ service }) => {
     <div>
       <Col className="p-3" data-aos="zoom-in-up">
         <Card className="h-100">
-          <Card.Img style={{ height: "330px" }} variant="top" src={img} />
+          <Card.Img style={{ height: "300px" }} variant="top" src={img} />
           <Card.Body>
             <Card.Title>
               {" "}
