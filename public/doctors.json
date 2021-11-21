@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": " Dr. George A. Beller",
+    "speciality": "Oncologist",
+    "img": "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Dr. John P. DiMarco",
+    "speciality": "Psychiatrists",
+    "img": "https://image.freepik.com/free-photo/happy-young-male-doctor-using-tablet-computer_1262-18254.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Richard D. Pearson",
+    "speciality": "Neurologists",
+    "img": "https://img.freepik.com/free-photo/smiling-touching-arms-crossed-room-hospital_1134-799.jpg?size=338&ext=jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Michael E. Williams",
+    "speciality": "Radiologists",
+    "img": "https://image.freepik.com/free-photo/medium-shot-smiley-man-wearing-coat_23-2148816193.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Robert J. Boyle",
+    "speciality": "Obstetricians",
+    "img": "https://img.freepik.com/free-photo/portrait-african-american-practitioner-doctor-working-hospital-office_482257-21715.jpg?size=338&ext=jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Mark D. Okusa",
+    "speciality": "Dentist",
+    "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Daryl R. Gress",
+    "speciality": "Ophthalmologists",
+    "img": "https://image.freepik.com/free-photo/young-asia-male-doctor-white-medical-uniform-with-stethoscope-using-computer-laptop-talk-video-conference-call-with-patient-looking-camera-health-hospital_7861-3127.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Bruce Bateman",
+    "speciality": "Podiatrist",
+    "img": "https://image.freepik.com/free-photo/smiling-asian-male-doctor-pointing-upwards_1262-18321.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dr. David R. Jones",
+    "speciality": "Epidemiologist",
+    "img": "https://image.freepik.com/free-photo/healthcare-workers-medical-insurance-pandemic-covid-19-concept-handsome-smiling-doctor-white-coat-glasses-holding-medicine-hand-advice-use-medication-antibiotics_1258-58615.jpg"
+  }
+]

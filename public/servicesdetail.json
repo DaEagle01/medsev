@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Expert Doctor",
+    "img": "https://image.freepik.com/free-photo/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865.jpg",
+    "description": "We have expert and professional doctors with multiple years of experience.",
+    "detailsHeader": "Our hospital always provide good services",
+    "details": "From complex care to straightforward procedures, we provide exceptional care across our network of facilities. Our hospitals, clinics, outpatient and diagnostics centres, and NHS partnerships cover all areas of medicine, including complex conditions in both adults and children. We have intensive care facilities in all of our hospitals, and dedicated and expert teams to look after you no matter what happens. The quality of care we provide is monitored tightly, and is overseen by teams of highly qualified clinicians who ensure that the checks, balances and structures are in place to keep you safe, and to ensure that you receive the best possible care at all times."
+  },
+  {
+    "id": 2,
+    "name": "Diagnosis",
+    "img": "https://image.freepik.com/free-photo/nurse-measuring-patient-blood-pressure_53876-14933.jpg",
+    "description": " Visit our clinic for medical help. We provide efficient and thorough medical care in a way that is convenient and comfortable.",
+    "detailsHeader": "Our Diagnosis Department",
+    "details": "Popular Medicine corner is a well-known retailer of medicine in Bangladesh. We provide all kinds of life saving medicine, which are available in all branches of Popular Diagnostics Ltd. Our aim is to provide good medicine and best service quality to the patients."
+  },
+  {
+    "id": 3,
+    "name": "Pathology",
+    "img": "https://image.freepik.com/free-photo/scientist-putting-blood-sample-from-test-tube-with-micropipette-petri-dish-analysing-chemical-reaction_482257-487.jpg",
+    "description": "Our pathology department is equipped with the latest and most advanced medical technologies.",
+    "detailsHeader": "Our Pathology Department",
+    "details": "Our hospital has Philips Inginia 3.0Tesla Digital MRI ,Philips Inginia 3.0Tesla Digital MRI, GE Light Speed 500 slice VCT (CT Scanner) ,GE Prodigy Oracle-Bone Densitometer(BMD) ,SIEMENS Lithotripsy (ESWL) ,Philips 12-Channel -ECG ,GE Marquette 12 Channel ECG(Computer Analyzed & Interpreted) ,GE Marquette ETT(Tress ECG) ,GE 24 Hours Holter Monitor (Marquette) ,24 Hours Ambulatory BP"
+  },
+  {
+    "id": 4,
+    "name": "Dental Care",
+    "img": "https://img.freepik.com/free-photo/young-male-dentist-patient_136930-17.jpg?size=338&ext=jpg",
+    "description": "Esthetic dentistry, Scaling, dental care of the elderly, root canal treatment and a lot more",
+    "detailsHeader": "Our Dental Care Department",
+    "details": "We focus on protecting your smile through prevention and early detection of oral health problems. Our goal is to keep your teeth strong and healthy for life, while helping you avoid preventable problems that can be painful (and often costly). To help do this, we offer a wide range of dental services, from basic check-ups to more involved treatments like dental implants. For patients who want both protection and an improved look, we also offer services such as teeth whitening and dental veneers. With expertise in health services , an experienced dental team, and a convenient location in Westfield Hornsby, Bupa Dental makes getting high-quality care easy so you can feel comfortable both in and out of the dentist’s chair."
+  },
+  {
+    "id": 5,
+    "name": "Cardioloy",
+    "img": "https://img.freepik.com/free-photo/doctor-holding-red-heart_38810-6746.jpg?size=338&ext=jpg",
+    "description": "We have doctors with expertise in all field of cardiology, including Arrhythmias Care.",
+    "detailsHeader": "Our Cardiology Department",
+    "details": "Our Cardiology Services team provides heart screening and diagnosis as well as treatment and support. We offer a variety of resources for people with cardiovascular disease and those looking to keep their heart healthy.We provide a comprehensive adult inpatient and outpatient cardiology service, led by consultants with a range of specialty interests. Daily consultant ward rounds take place seeing patients under the care of the specialty, plus those referred while in hospital."
+  },
+  {
+    "id": 6,
+    "name": "Medicine",
+    "img": "https://img.freepik.com/free-photo/medicine-bottles-tablets-wooden-desk_1387-420.jpg?size=338&ext=jpg",
+    "description": "Get the best treatment from the department of general medicine from expert doctors.",
+    "detailsHeader": "Our Medicine Department",
+    "details": "Department of Internal Medicine focuses on the diagnosis, treatment, and prevention of non-surgical conditions in adults. The department provides a wide range of high quality cross-specialty health care services, including physical examinations, preventive screenings and immunizations, urgent care for medical conditions, and referrals to surgical specialists when appropriate. Our Internal Medicine Consultants have had broad-based training in General Medicine and in one or more subspecialties. The presence of clinicians with different subspecialty training in the department allows an integrated approach to patient care and helps to limit the volume of referral to other subspecialty departments. The Department provides consultation services in level-1 (OPD) through highly qualified and experienced Internal Medicine Consultants, who carefully evaluate each patient. After diagnosing patient’s condition, our Consultants discuss available treatment options and recommend the most effective treatment."
+  },
+  {
+    "id": 7,
+    "name": "Neurology",
+    "img": "https://image.freepik.com/free-photo/close-up-expert-scientist-neurological-dysfunctions-standing-laboratory-working-tablet-medical-researcher-preparing-patient-brain-scan-analysing-electrical-activity-nervous-system_482257-13110.jpg",
+    "description": "Visit our clinic for best medical treatment of neurological problems and nerve diseases. ",
+    "detailsHeader": "Our Neurology Department",
+    "details": "The department provides consultation services in level-3 (OPD) through highly qualified and experienced Neurology Consultants, who carefully evaluate each patient. After diagnosing the patient’s condition, they discuss available treatment options and recommend the most effective treatment. Department of Neurology of Evercare Hospital Dhaka provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of neurological conditions, including diseases of the brain, spinal cord, peripheral nerves and muscles. Evercare Hospital Dhakais the only hospital in the country to be providing advanced and comprehensive Neurology & Neurosurgery facilities under one roof. The Neurology Department has experienced American Board Certified Neurologist and also the only qualified epilepsy specialist of the country. The department uses the latest technology and facilities, and is staffed by an experienced team of neurologists, nurses and technologists, who are committed to patient care. Neuro Rehabilitation services are provided for our patients in association with Physical Medicine & Rehabilitation Centre."
+  },
+  {
+    "id": 8,
+    "name": "Intensive Care Unit",
+    "img": "https://image.freepik.com/free-photo/surgeon-using-digital-tablet-operation-theater_107420-64888.jpg",
+    "description": "Dedicated & highly experienced specialists for treatments in times of emergency.",
+    "detailsHeader": "Our ICU Department",
+    "details": "The Intensive Care Unit of United Hospital is staffed by highly trained doctors and nurses who specialize in caring for seriously ill patients. Patients may be transferred directly to the ICU from our emergency department or from a ward if they rapidly deteriorate or immediately after surgery if the surgery is very invasive and the patient is at high risk of complications. OUR ICU SERVICES & FACILITIES ARE 24 hours supervision under guidance of highly trained consultant with 10 years overseas experience in ICU. 24 hours presence of internist and ICU doctors. 24 hours trained nursing staff for each individual patient. Central monitoring system. Hi-Tech vital sign monitor for every patient. Invasive & non-invasive haemodynamic monitoring system. Bispectral Index (BIS) monitoring for assessment of brain activity – brain monitoring.   Syringe & infusion pumps for metered medications and accurate volume infusions. Ultramodern ventilator with monitoring facilities to aid patient's own breathing effort. Instant ABG (arterial blood gas) analysis within ICU. Instant electrolyte assessment within ICU. Portable ventilators - during transportation within the hospital for various purposes like CT scan, MRI etc. we use portable ventilators and also to bring ventilated patients from other hospitals. Portable X-ray machine within ICU. Bed side Echocardiogram and Ultrasonogram. Facility to implant temporary pacemaker. IABP (intra-aortic balloon pump) facility to maintain blood pressure in patients with circulatory failure. Total Parenteral Nutrition (TPN) for patients who are unable to have enteral nutrition Highly specialized physiotherapy service"
+  },
+  {
+    "id": 9,
+    "name": "Fast Ambulance",
+    "img": "https://image.freepik.com/free-vector/emergency-ambulance-with-coronavirus-concept_23-2148534627.jpg",
+    "description": "We provide ambulance and mobility assistance vehicle.Patient transport sevice.",
+    "detailsHeader": "Our Ambulance Service",
+    "details": "We have brought you the best quality online ambulance service in Dhaka. Be it pandemic or other adverse situations. we are ready to transport the patient to the hospital or home. We value your lives and we will not let anyone die without getting proper treatment. During the pandemic situation, we have noticed that people aredying before getting admitted to the hospitals. So that, we havetaken the initiative to launch our online ambulance service inall over Bangladesh , Mirpur, Mohakhali and as well as otherrural areas so that people can easily access emergency ambulanceservices in Bangladesh. We provide 24-hour emergency ambulanceservices to people and acute illnesses as well as pregnancy. Online Ambulance Service. Ambulance Bd gives the 24/7 service in Bangladesh. We Provide AC and Non AC Ambulance, Freezing Ambulance and ICO Ambulance services all over Bangladesh. So if you need an emergency ambulance service  then simply call us to get services."
+  }
+]
